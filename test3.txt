@@ -1,2 +1,6 @@
-#Demo 2
+# Demo2
 Vuk Domi
+
+# Local Develpoment
+
+open index.html
